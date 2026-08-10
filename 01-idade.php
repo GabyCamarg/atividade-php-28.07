@@ -1,4 +1,4 @@
-```php
+
 <?php
 
 $idade = 20;
